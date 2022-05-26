@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rifqi_Luthfito</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Pencarian Lokasi</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
